@@ -1,0 +1,8 @@
+﻿l_russian:
+ rule_wotr:0 "Война Кольца"
+ setting_default_wotr:0 "По умолчанию"
+ setting_default_wotr_desc:0 "Война Кольца начнётся около 3018 года."
+ setting_never_wotr:1 "#high Никогда#!"
+ setting_never_wotr_desc:0 "События, связанные с Войной Кольца, будут отключены."
+ setting_random_wotr:1 "#high Случайно#!"
+ setting_random_wotr_desc:0 "События, связанные с Войной Кольца, могут произойти в любой момент."
